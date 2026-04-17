@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+langchain
+chromadb
+python-dotenv
+alembic
+httpx
+huggingface_hub
+anthropic
+openai
+python-multipart
+PyPDF2
+groq
+psutil
+sentence-transformers
+email-validator
+gdown
+# MCP (Model Context Protocol) - single package contains client and server
+mcp
